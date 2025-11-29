@@ -1,0 +1,8 @@
+{
+  "name": "Ciclo - Menstrual Health & AI",
+  "description": "A privacy-focused, AI-enhanced menstrual cycle tracker with cycle prediction, health insights, and generative art features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
